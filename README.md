@@ -2,7 +2,7 @@
 
 This pipeline code was an example of the methods used in the following study.
 
-* XXXXXXX
+* _in preparation_
 
 ## Base calling from Oxford Nanopore data
 ### Environment
